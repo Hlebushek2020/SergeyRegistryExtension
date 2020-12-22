@@ -1,0 +1,6 @@
+# DIRECTORIES
+/SergeyRegistryExtension/VS_Output/*
+/.vs/*
+# FILES
+*Thumbs.db
+*.user
